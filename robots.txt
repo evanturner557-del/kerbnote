@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /kerbnote/d/
+Disallow: /d/
+Sitemap: https://evanturner557-del.github.io/kerbnote/sitemap.xml
